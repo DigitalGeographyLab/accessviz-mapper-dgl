@@ -6,7 +6,7 @@
 **AccessViz Mapper** - A handy tool for mapping Accessibility Travel Times by different Transport Modes at Helsinki Region
 
 ### Description:
-**AccessViz Mapper** is a tool which can be deployed as a web app/desktop app. In this repository, the code can be found in a notebook which is rendered using Voila. Follow the instructions to make it work at your local disk by downloading the Repository. This tool was developed in the course Autogis by Bryan Vallejo. Original repo [Accessviz mapper original repo](https://github.com/bryanvallejo16/accessviz-mapper).
+**AccessViz Mapper** is a tool which can be deployed as a web app/desktop app. In this repository, the code can be found in a notebook which is rendered using Voila. Follow the instructions to make it work at your local disk by downloading the Repository. This tool was developed in the course AutoGIS by MSc student Bryan Vallejo. [Accessviz mapper initial repo](https://github.com/bryanvallejo16/accessviz-mapper).
 
 ### Guided tutorial:
 [How to make Travel-Time (accessibility) maps with accessviz-mapper](https://towardsdatascience.com/travel-time-accessibility-maps-with-the-accessviz-mapper-tool-in-helsinki-7be23eadd4b0)

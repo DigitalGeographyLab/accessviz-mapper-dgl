@@ -65,3 +65,6 @@ This line will start a localhost with the Desktop App/Dashboard.
 - [Helsinki Region Travel Time Matrix Blog](https://blogs.helsinki.fi/accessibility/helsinki-region-travel-time-matrix/)
 - [Voila Documentation](https://voila.readthedocs.io/en/stable/index.html)
 - [Ipywidgets Documentation](https://ipywidgets.readthedocs.io/en/stable/index.html)
+ 
+ <a href="https://www.buymeacoffee.com/bryan.vallejo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 2px !important;width: 6px !important;" ></a>
+
